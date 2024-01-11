@@ -1,11 +1,48 @@
+agile
+algorithms
+aws
 c
+data structures
 development
-html5
+devops
+docker
+git
+information technology
 java
-mysql
-interpersonal skills
+javascript
+jenkins
+kubernetes
+pipeline
+python
+sql
+statistics
+version control
+bash
+circleci
+command line
+cloud computing
+cloud infrastructure
+communication skills
+computer science
+consultative
+containerization
+continuous learning
+dns
+http
+information systems
+infrastructure
+ip
+iterative development
+jira
 linux
-robotics
-structured
-switches
+networking
+nosql
+ruby
+sales
+sre
+tcp
+testing
 training
+unix
+virtualization
+web technologies

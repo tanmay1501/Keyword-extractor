@@ -1,5 +1,4 @@
 algorithms, development, machine learning, management, python, pytorch, tensorflow, artificial intelligence, computer science, computer vision, cross-functional, data processing, data science, deep learning, keras, natural language processing, nlp, numpy, pandas, product management, robotics
-aws, analytics, back-end, continuous integration, development, git, hibernate, java, js, machine learning, react, restful, version control, artificial intelligence, computer science, cross-functional, design patterns, front-end, google cloud, industry trends, service delivery, testing, ui, user experience, ux, ux/ui
 agile, development, information technology, java, javascript, communication skills, computer science, information systems, public relations, sales, test automation, testing, training
 development, management, accounting, communication skills, computer science, frontend, radius, slack, training
 architecture, backend, development, communication skills, computer science, infrastructure, radius, slack, training
@@ -8,5 +7,5 @@ database, development, management, adtech, computer science, cross-functional, c
 algorithms, c, data structures, development, java, python, sql, computer science, cross-functional, networking, requirements gathering, teamwork, testing
 algorithms, architecture, data structures, development, java, javascript, application development, communication skills, computer engineering, computer science, data science, data-driven, end-to-end, enterprise
 c, continuous improvement, hvac, infrastructure, training, vba
-aws, azure, c, CI/CD, docker, gcp, git, javascript, kubernetes, python, rust, computer science, data processing, embedded systems, linux, testing, typescript, unit test
 c, development, html5, java, mysql, interpersonal skills, linux, robotics, structured, switches, training
+agile, algorithms, aws, c, data structures, development, devops, docker, git, information technology, java, javascript, jenkins, kubernetes, pipeline, python, sql, statistics, version control, bash, circleci, command line, cloud computing, cloud infrastructure, communication skills, computer science, consultative, containerization, continuous learning, dns, http, information systems, infrastructure, ip, iterative development, jira, linux, networking, nosql, ruby, sales, sre, tcp, testing, training, unix, virtualization, web technologies
